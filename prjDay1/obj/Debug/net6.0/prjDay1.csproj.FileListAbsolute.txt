@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\prjDay1\bin\Debug\net6.0\prjDay1.exe
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\prjDay1\bin\Debug\net6.0\prjDay1.deps.json
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\prjDay1\bin\Debug\net6.0\prjDay1.runtimeconfig.json
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\prjDay1\bin\Debug\net6.0\prjDay1.dll
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\prjDay1\bin\Debug\net6.0\prjDay1.pdb
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\prjDay1\obj\Debug\net6.0\prjDay1.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\prjDay1\obj\Debug\net6.0\prjDay1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\prjDay1\obj\Debug\net6.0\prjDay1.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\prjDay1\obj\Debug\net6.0\prjDay1.AssemblyInfo.cs
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\prjDay1\obj\Debug\net6.0\prjDay1.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\prjDay1\obj\Debug\net6.0\prjDay1.dll
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\prjDay1\obj\Debug\net6.0\refint\prjDay1.dll
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\prjDay1\obj\Debug\net6.0\prjDay1.pdb
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\prjDay1\obj\Debug\net6.0\prjDay1.genruntimeconfig.cache
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\prjDay1\obj\Debug\net6.0\ref\prjDay1.dll
