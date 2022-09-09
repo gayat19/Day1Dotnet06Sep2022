@@ -1,0 +1,14 @@
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\EmployeeManagementDALibrary\bin\Debug\net6.0\EmployeeManagementDALibrary.deps.json
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\EmployeeManagementDALibrary\bin\Debug\net6.0\EmployeeManagementDALibrary.dll
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\EmployeeManagementDALibrary\bin\Debug\net6.0\EmployeeManagementDALibrary.pdb
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\EmployeeManagementDALibrary\obj\Debug\net6.0\EmployeeManagementDALibrary.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\EmployeeManagementDALibrary\obj\Debug\net6.0\EmployeeManagementDALibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\EmployeeManagementDALibrary\obj\Debug\net6.0\EmployeeManagementDALibrary.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\EmployeeManagementDALibrary\obj\Debug\net6.0\EmployeeManagementDALibrary.AssemblyInfo.cs
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\EmployeeManagementDALibrary\obj\Debug\net6.0\EmployeeManagementDALibrary.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\EmployeeManagementDALibrary\obj\Debug\net6.0\EmployeeManagementDALibrary.dll
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\EmployeeManagementDALibrary\obj\Debug\net6.0\refint\EmployeeManagementDALibrary.dll
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\EmployeeManagementDALibrary\obj\Debug\net6.0\EmployeeManagementDALibrary.pdb
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\EmployeeManagementDALibrary\obj\Debug\net6.0\ref\EmployeeManagementDALibrary.dll
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\EmployeeManagementDALibrary\bin\Debug\net6.0\EmployeeManagementDALibrary.runtimeconfig.json
+D:\Data\d drive\Corp\SkillWise\Disys\Day1Solution\EmployeeManagementDALibrary\obj\Debug\net6.0\EmployeeManagementDALibrary.genruntimeconfig.cache
